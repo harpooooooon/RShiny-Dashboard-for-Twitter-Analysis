@@ -4,7 +4,9 @@
 
 Hi,
 
-The code in the repository is for a dashboard that uses the Twitter REST API to return a set number of tweets from a particular twitter handle, set by the user. The application is meant to answer the following questions:
+The code in this repository is for a RShiny dashboard that uses the Twitter REST API to return a set number of tweets from a particular twitter handle, set by the user. Powered by R, this application is designed to answer the following questions:
+
+  <li>What subjects cause the highest user engagement, measured by RT/ Favorited count?</li>
 
   <li>When does a person tweet?</li>
   
@@ -16,7 +18,7 @@ The code in the repository is for a dashboard that uses the Twitter REST API to 
   
   <li>Is there a correlation between the RT and Favorited count?</li>
   
-  <li>What subjects cause the highest user engagement, measured by RT/ Favorited count?</li>
+  
          
 <h3>Notes: </h3>
   
