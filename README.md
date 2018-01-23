@@ -26,6 +26,9 @@ The code in this repository is for a RShiny dashboard that uses the Twitter REST
   and the application will chug along dandily.</li>
   
   
+  
   <li>As stated before, the applcation uses the Twitter REST API and more specifically uses the 'userTimeline' function, derived from twitteR package to pull Tweets. The API, however, may not return the exact number of tweets requested due to restrictions on time line history</li>
+  
+  
   
   <li>The app is constructed using two scripts. One entitled 'functions' containing a set of functions, each of which except a data frame of tweets and associated metadata, and then filter through according to what specifically it operates upon. The other, entitled 'app', is the the real meat of the dashboard, wherein the User interface is defined. Functions from from the 'functions' script are called in and executed in the 'app' script so as to avoid any circumstance in which erroneous syntax errors can occur.  </li>
