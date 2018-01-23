@@ -1,4 +1,4 @@
-exact # twitter_RShiny_application
+# twitter_RShiny_application
 <h3>dashboard for twitter handle analysis</h3>
 
 
