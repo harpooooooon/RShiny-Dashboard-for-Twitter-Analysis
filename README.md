@@ -1,3 +1,4 @@
+
 # twitter_RShiny_application
 <h3>dashboard for twitter handle analysis</h3>
 
@@ -21,6 +22,8 @@ The code in this repository is for a RShiny dashboard that uses the Twitter REST
   
          
 <h3>Notes: </h3>
+
+  <li>you can access the functioning application at https://nipunjeet-gujral.shinyapps.io/shiny_twitter_analysis/</li>
   
   <li>For security reasons I excluded the API consumer and access keys. Insert your own under the authentication function named 'setup1'
   and the application will chug along dandily.</li>
