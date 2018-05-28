@@ -14,7 +14,7 @@ The following plots are produced via the plotly library and are therefore fully 
 * Will bee adding another tab including network analysis between individuals and their respective followers 
 #### Warning:
 
- * As the code stands, importing a copy into R will not result in a functioning application, unless you can produce 
+ * As the code stands, importing a copy into R will not result in a functioning application, unless you can produce your own
 	 > * consumer key
 	  > * consumer secret
 	  > *  authentication key
