@@ -1,5 +1,5 @@
 ---
-title: Functions for the Shiny Applicaion Using Twitter Data
+title: Functions for the Shiny Application Using Twitter Data
 author: Nipunjeet Gujral
 data: May 27th, 2018
 output: 
