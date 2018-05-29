@@ -1,4 +1,4 @@
-# twitter_RShiny_application
+# RShiny Dashboard for Tiwtter Usage Analysis 
 Hi,
 
 The following code produces a  RShiny Dashboard which is created with the intent to illustrate both the: 
