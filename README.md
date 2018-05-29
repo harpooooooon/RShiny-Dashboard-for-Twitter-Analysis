@@ -7,11 +7,11 @@ The following code produces a  RShiny Dashboard which is created with the intent
 
 The more tweets a person generates, the more clear the habits become.
 
-The following plots are produced via the plotly library and are therefore fully interactive in any internet browser. I encourage any user of the application to tinker with the application available at: https://nipunjeet-singh-gujral.shinyapps.io/Shiny_App_v2/. Enjoy.
+The following plots are produced via the plotly library and are therefore fully interactive in any internet browser. I encourage any user of the application to tinker with a running version of the application available at: https://nipunjeet-singh-gujral.shinyapps.io/Shiny_App_v2/. Enjoy.
 
 #### In the near future:
 * Will be adding another tab to including sentiment analysis.
-* Will bee adding another tab including network analysis between individuals and their respective followers 
+* Will be adding another tab including network analysis between individuals and their respective followers 
 #### Warning:
 
  * As the code stands, importing a copy into R will not result in a functioning application, unless you can produce your own
