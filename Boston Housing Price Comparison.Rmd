@@ -20,7 +20,7 @@ output:
 | neuralnet    | Neural Network Related Functions |
 | tidyverse    | Data Manipulation                |        
 | MASS         | Boston Housing Predictions       |
-| set.seed(500)| Randomization Factor             |
+| set.seed(123)| Randomization Factor             |
 
 
 
