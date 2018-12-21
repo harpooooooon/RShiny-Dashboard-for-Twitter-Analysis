@@ -22,11 +22,12 @@ The following plots are produced via the plotly library and are therefore fully 
 	 
 and then insert those four key pieces of information inside the **authentication** function,  in place of the underscores,  located in the  __gitub export functions__ script.
 
- * Currently the Strata Analysis Tab will not run as the it incoporates an latent Dirchlet Allocation (LDA) Model that was too large to run on the free RStudio serves, wherein this application is hosted. 
-
-
 * Instructions to produce the aforementioned key pieces of information are available at: 
 https://iag.me/socialmedia/how-to-create-a-twitter-app-in-8-easy-steps/
+
+ * Currently the Strata Analysis Tab will not run as it incoporates a Latent Dirchlet Allocation (LDA) Model that was too large to run on the free RStudio serves, wherein this application is hosted. 
+
+
 
 
 
